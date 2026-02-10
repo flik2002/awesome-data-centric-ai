@@ -56,7 +56,7 @@ Here you may find a list of hands-on tutorials and other materials we use on our
 
 - [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) - This survey is to help readers efficiently grasp a broad
 picture of data-centric AI. It covers various aspects such as the needs, definitions, and challenges of data-centric AI, as well as techniques for training data development, inference data development, and data maintenance. Additionally, the survey organizes existing literature from the perspectives of automation and collaboration, tabulating and analyzing benchmarks for achieving data excellence. There is also a [short version](https://arxiv.org/abs/2301.04819).
-
+- [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Data and pipeline centric failure map for LLM and production RAG systems, providing a compact vocabulary and practical repair steps for sixteen common issues in retrieval, chunking, embeddings, vector stores, evaluation, and infra.
 
 ## 🎓 Courses
 
