@@ -46,6 +46,7 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 - [TagAnamoly](https://github.com/Microsoft/TagAnomaly) - Anomaly detection labeling tool, specifically for multiple time series (one time series per category).
 - [EchoML](https://github.com/ritazh/EchoML) - Play, visualize and annotate your audio files
 - [LabelStudio](https://github.com/heartexlabs/label-studio) - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
+- [LightlyStudio](https://github.com/lightly-ai/lightly-studio) - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
 - [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 
 ## 🛠️ Data Preparation
