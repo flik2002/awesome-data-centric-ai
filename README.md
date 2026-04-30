@@ -18,6 +18,18 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 📊 Data Profiling
 
+## OpenClaw Monitor
+
+| | |
+|---|---|
+| **Project** | [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) |
+| **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
+| **Stars** | ⭐ 1.3k+ |
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 - [YData Profiling](https://github.com/ydataai/ydata-profiling) - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
 - [SweetViz](https://github.com/fbdesignpro/sweetviz) - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
 - [DataPrep.EDA](https://github.com/sfu-db/dataprep) - DataPrep.EDA  is an EDA (Exploratory Data Analysis) tool in Python that allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
